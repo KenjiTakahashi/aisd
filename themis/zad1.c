@@ -1,6 +1,6 @@
 /* Karol Woźniak
  * 233234
- * PKA
+ * MSz
  */
 #include <stdio.h>
 
